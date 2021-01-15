@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+h3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+}
+#Move_bnt{
+    padding: 10px 24px;
+    cursor: pointer;
+    background-color: #00bbfa;
+    color: blue;
+    font-size: 20px;
+    border-radius: 5px;
+}
